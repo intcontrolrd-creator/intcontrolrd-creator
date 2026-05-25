@@ -22,7 +22,7 @@ Alineado con las necesidades de la Empresa y el Estado moderno.
 
 ## 🔷 Modelo Abreu de Control Preventivo
 
-![Modelo Abreu](AQUI_EL_LINK_CORRECTO)
+[![Modelo Abreu](AQUI_EL_LINK_CORRECTO)](https://github.com/intcontrolrd-creator/intcontrolrd-creator/raw/main/Diagrama%20del%20Modelo%20Abreu.png?raw=true)
 
 ---
 
