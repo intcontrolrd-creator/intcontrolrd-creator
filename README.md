@@ -28,6 +28,20 @@ Alineado con las necesidades de la Empresa y el Estado moderno.
 
 ---
 
+## 🔷 Contenido del repositorio
+
+### 📘 Modelos
+- [Modelo de Control Preventivo](modelos/modelo-control-preventivo.md)
+
+### 🧠 Principios
+- [Principios del Control Preventivo](principios/principios-control-preventivo.md)
+
+### 🛠️ Herramientas
+- [Checklist de Control Preventivo](herramientas/checklist-control-preventivo.md)
+- [Matriz de Evaluación de Riesgos](herramientas/matriz-evaluacion-riesgos-control-preventivo.md)
+
+---
+
 ## 🔷 Estructura de la serie
 
 La obra está diseñada como un recorrido evolutivo:
