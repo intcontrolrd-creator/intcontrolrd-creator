@@ -20,6 +20,12 @@ Alineado con las necesidades de la Empresa y el Estado moderno.
 
 ---
 
+## 🔷 Modelo Abreu de Control Preventivo
+
+![Modelo Abreu](AQUI_EL_LINK_CORRECTO)
+
+---
+
 ## 🔷 Estructura de la serie
 
 La obra está diseñada como un recorrido evolutivo:
